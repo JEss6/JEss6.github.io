@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko" #en-US
-title                    : "HI!"
+title                    : "GiCheol's blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "GiCheol"
+description              : "GiCheol's blog"
 url                      : "https://jess6.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JEss6/JEss6.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Gicheol"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "I'm normal person..."
   location         : "Somewhere"
   email            :
   links:
